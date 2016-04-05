@@ -1,0 +1,5 @@
+/home/anvi/3DFPS/Algorithms_and_DataStructions/Algorithms_and_DataStructions/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/anvi/3DFPS/Algorithms_and_DataStructions/Algorithms_and_DataStructions/bin/Release/Algorithms_and_DataStructions.exe.mdb
+/home/anvi/3DFPS/Algorithms_and_DataStructions/Algorithms_and_DataStructions/bin/Release/Algorithms_and_DataStructions.exe
+/home/anvi/3DFPS/Algorithms_and_DataStructions/Algorithms_and_DataStructions/obj/x86/Release/Algorithms_and_DataStructions.exe
+/home/anvi/3DFPS/Algorithms_and_DataStructions/Algorithms_and_DataStructions/obj/x86/Release/Algorithms_and_DataStructions.exe.mdb
